@@ -2,7 +2,7 @@
 ## julie.smutna@gmail.com
 ## FB Julie Natálie Smutná
 ### Czech Republic
-
+<img alt = "Alt text goes." src= "./img/portrait-jnsmutna.jpg"> 
 
 ---
 
