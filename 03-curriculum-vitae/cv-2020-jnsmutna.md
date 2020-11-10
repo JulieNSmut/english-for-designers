@@ -2,7 +2,6 @@
 ## julie.smutna@gmail.com
 ## FB Julie Natálie Smutná
 ### Czech Republic
-<img alt = "Alt text goes." src= "./img/portrait-jnsmutna.jpg"> 
 
 ---
 
@@ -28,12 +27,18 @@ Graphic and medial design
 ---
 
 ## Skills
+Managing
+
 Logo design
-UX & UI design
+
 Poster design
+
 Packaging design
+
 Drawing
+
 Painting
+
 Adobe CC
 
 ---
@@ -41,21 +46,33 @@ Adobe CC
 ### Hobbies
 #### Sports
 Snowboarding
+
 Skiing
+
 Swimming
+
 Rollerskating
+
 Ride a horse
+
 Cycling
+
 #### Music
 Piano
+
 Guitar
+
 Sing
 
 ---
 
 ### another experience
 Manager McDonald's
-	CTC - crew trainer course
-	SMC - shift manager course
+
+CTC - crew trainer course
+
+SMC - shift manager course
+
 Exhibitions of painting
+
 Appearance of music
