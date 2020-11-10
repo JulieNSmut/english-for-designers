@@ -16,6 +16,14 @@ I did a redesign for webdesign, logotype, posters and visual materials for drivi
 #### for Blanka Matragi
 I did redesign of logo for Banka Matragi. Logo was vector graphic design composed by lined. Logo could used for many different materials like clothes, glass, paper, metal and jewel.
 
+### another experience
+#### Manager McDonald's
+
+CTC - crew trainer course
+
+SMC - shift manager course
+
+
 ---
 
 ## Education
@@ -67,12 +75,6 @@ Sing
 ---
 
 ### another experience
-Manager McDonald's
-
-CTC - crew trainer course
-
-SMC - shift manager course
-
 Exhibitions of painting
 
 Appearance of music
