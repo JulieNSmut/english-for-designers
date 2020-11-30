@@ -16,6 +16,14 @@ Inspiration from eagle combine with man's act. I took an inspiration from my hom
 
 ![Photo painting falling Ikarus.](img/Falling-Ikarus.JPG)
 
-This painting is inpired by fable about Ikarus who He did fall out to the ocean. When he had jumped from tower.
+This painting is inpired by fable about Ikarus who He did fall out to the ocean. When he had jumped from tower. I found a picture of the sea and than I painted it. We could to regard as copying. Artists are copying everyhing. They use something and then they give a another meaning.
 
-Figure 6-2 caption.
+![Photo painting Heaven and Hell in progress.](img/H&H-scatch.JPG)
+
+![Photo painting Heaven and Hell.](img/H&H.JPG)
+
+This painting is composed by many different paintings and sculture from many different artists. Like Michelangelo's sinners and his angels and mans from his paintings. Cloud and sky was inspired by photos from Google.
+
+### Figure 6-2 caption. Copying on University
+
+
