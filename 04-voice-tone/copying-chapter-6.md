@@ -22,8 +22,9 @@ This painting is inpired by fable about Ikarus who He did fall out to the ocean.
 
 ![Photo painting Heaven and Hell.](img/H&H.JPG)
 
-This painting is composed by many different paintings and sculture from many different artists. Like Michelangelo's sinners and his angels and mans from his paintings. Cloud and sky was inspired by photos from Google.
+This painting is composed by many different paintings and sculture from many different artists. Like Michelangelo's sinners and his angels and mans from his paintings. Cloud and sky was inspired by photos from Google. And hands are inspired by Dürer's drawings. In Fact, many of my artwork is copy from others artist.
 
 ### Figure 6-2 caption. Copying on University
 
+Copying continued on college too. I think more then before on High school. I started to do a graphic design. What is different between graphic design and painting? Painting is like an Elephant that looks like similar as we know. With shades, eyes, skin and so on. Graphic design is like an elephant but just from bones. And it is more about copying. In graphic artwork I used techniques that did someone before me. I used a typography who someone create before me. We know now what is the best typography for digital version and what for reading printed version. I used a photography created by photographers. If I do a poster I usually do a collage from photos. Or I can drew my own artwork and mixed with photos. I found a inspiratin from other graphic designers and theirs artwork. Graphic design is all about transfomation.
 
