@@ -8,7 +8,7 @@
 
 - Clear. - Understand the topic you’re writing about. Use simple words and sentences.
 
-## voice
+## Voice
 
 1. We are genuine. - We get small businesses because we were one not too long ago. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
 
