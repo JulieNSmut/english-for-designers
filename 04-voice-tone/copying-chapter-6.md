@@ -24,7 +24,7 @@ This painting is inpired by fable about Ikarus who He did fall out to the ocean.
 
 ![Photo painting Heaven and Hell.](img/H&H.JPG)
 
-This painting is composed by many different paintings and sculture from many different artists. Like Michelangelo's sinners and his angels and mans from his paintings. Cloud and sky was inspired by photos from Google. And hands are inspired by Dürer's drawings. In Fact, many of my artwork is copy from others artist.
+This painting is composed by many different paintings and sculture from many different artists. Like Michelangelo's sinners and his angels and men from his paintings. Cloud and sky was inspired by photos from Google. And hands are inspired by Dürer's drawings. In Fact, many of my artwork is copy from others artist.
 
 ### Figure 6-2 caption. Copying on University
 
