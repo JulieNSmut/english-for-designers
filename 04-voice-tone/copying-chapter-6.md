@@ -36,3 +36,4 @@ I did a posters for Visegrad group. These posters are based on photos from freep
 
 This poster was inspired by place in pub. One country to represent one of these drinks. Beer as Czech republic, vine as Hungarian, Wodka as Poland and Borovička as Slovakia.
 
+![Visegrad group in pub.](img/V4-2.png)
