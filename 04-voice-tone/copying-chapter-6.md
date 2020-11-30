@@ -34,6 +34,6 @@ I did a posters for Visegrad group. These posters are based on photos from freep
 
 ![Visegrad four western riders of the apocalypse.](img/V4-1-1.png)
 
-This poster was inspired by place in pub. One country to represent one of these drinks. Beer as Czech republic, vine as Hungarian, Wodka as Poland and Borovička as Slovakia.
+This poster was inspired by place in pub. One country to represent one of these drinks. Beer as Czech republic, vine as Hungarian, Wodka as Poland and Borovička as Slovakia. Friends country around the table and drinking theirs national drinks. I download a photo from webside freepic and then I did a collage from pictures.
 
 ![Visegrad group in pub.](img/V4-2.png)
