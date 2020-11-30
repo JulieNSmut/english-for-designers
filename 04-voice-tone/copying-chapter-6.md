@@ -10,7 +10,7 @@ If I went at high school I started copying from a photos and drawings created by
 
 ![Photo painting blue man's act with wings.](img/Metamorphosis.JPG)
 
-![Photo man.](img/Act-man.JPG)
+![Photo man.](img/Act-man.jpg)
 
 ![Photo eagle.](img/Eagle-photo.JPG)
 
