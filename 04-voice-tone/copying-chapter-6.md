@@ -6,7 +6,7 @@ When I was younger, I loved unbelievable thing. Like horse in fire, flying on th
 
 ### Figure 6-1 caption. Copying at high school
 
-If I went at high school I started copying from a photos and drawings created by artists. For instance drawings from Rembrandt, Leonardo da Vinci, Egon Schiele, Michelangelo and many others. Masterpiece that I copied was homework. At first I copied just drawings and after year I copied a paintings, too. However, I needed an inspiration to create next artworks. We had interesting task for my art atelier. Like allegory of fertility, ghost ours time or reduplication. These themes to supported creative thinking. In this time created lots of my artwork ideas. My painting called “Metamorphosis” is composed by man stomach and wings from flying bird.
+If I went at high school I started copying from a photos and drawings created by artists. For instance drawings from Rembrandt, Leonardo da Vinci, Egon Schiele, Michelangelo and many others. Masterpiece that I copied was homework. At first I copied just drawings and after year I copied a paintings, too. However, I needed an inspiration to create next artworks. We had interesting task for my art atelier. Like allegory of fertility, ghost ours time or reduplication. These themes to supported creative thinking. In this time created lots of my artwork ideas. My painting called “Metamorphosis” is composed by man's stomach and wings from flying bird.
 
 ![Photo painting blue man's act with wings.](img/Metamorphosis.JPG)
 
