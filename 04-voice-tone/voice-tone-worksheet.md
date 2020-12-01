@@ -12,9 +12,9 @@
 
 1. We are genuine. - We get small businesses because we were one not too long ago. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
 
-2. Our humor is dry. - Our sense of humor is straight-faced, subtle, and a touch eccentric. We’re weird but not inappropriate, smart but not snobbish. We prefer winking to shouting. We’re never condescending or exclusive—we always bring our customers in on the joke.
+2. Personality. - He use a words that is playfull, cheeky and fun. He is personal and active interesting words.
 
-3. Personality. - He use a words that is playfull, cheeky and fun. He is personal and active interesting words.
+3. Friendly.
 
 ## Tone
 
