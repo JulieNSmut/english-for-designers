@@ -3,8 +3,10 @@
 ## Writing Style
 
  - Respect. - Treat readers with the respect they deserve. Put yourself in their shoes, and don’t patronize them. Remember that they have other things to do. Be considerate and inclusive. Don’t market at people; communicate with them.
+ 
 - Guide. - Think of yourself as a tour guide for our readers. Whether you’re leading them through our educational materials or a task in our app, communicate in a friendly and helpful way.
-- Speak truth. - Understand Mailchimp's place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
+
+- Speak truth. - Speaking truth about myself, his life. 
 
 - Clear. - Understand the topic you’re writing about. Use simple words and sentences.
 
@@ -19,5 +21,7 @@
 ## Tone
 
 Write positively. Use positive language rather than negative language.
+
+Informal than formal.
 
 
