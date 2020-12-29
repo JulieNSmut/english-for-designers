@@ -1,8 +1,8 @@
 # Julie Natálie Smutná
 
-- About
+- [About](02-intentional-aboutness/about.md)
 
-- CV
+- [CV](03-curriculum-vitae/cv-2020-jnsmutna.md)
 
 ---
 
