@@ -8,20 +8,18 @@
 
 ## Work
 
-- Case study
-
-Letter N
-
 - Charakter & description
 
-- Copying Chapter
+[Letter N](01-character-description/character-description.md)
 
-- Voice & Tone
+- [Case study](02-intentional-aboutness/case-study.md)
+
+-[Copying Chapter](04-voice-tone/copying-chapter-6.md)
+
+- [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 
 - Presentation storytelling
 
-PDF presentation
+[PDF presentation](presentation.pdf)
 
 ---
-
-HOME
