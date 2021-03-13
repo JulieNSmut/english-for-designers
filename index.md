@@ -23,3 +23,11 @@
 [PDF presentation](presentation.pdf)
 
 ---
+
+- Clarity first
+
+[About my thesis](06-clarity-first/thesis-outline.md)
+
+- Abstract
+
+[Thesis abstract draft](07-abstract-draft/thesis-abstract-draft.md)
