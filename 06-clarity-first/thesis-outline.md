@@ -42,6 +42,7 @@ The thesis is about art in the subway in Prague. The theoretical part is based o
 - Logo
 - Pictograms
 - Lights and materials
+- Ing. Eugen Maletič
 
 ## Keywords
 
@@ -53,8 +54,10 @@ The thesis is about art in the subway in Prague. The theoretical part is based o
   - Metron/Neue Helvetica; Prague subway using four types of typography. With anarchy system of using. Helvetica, DIN, Syntax, Metron
 - **Information system**
   - Sign and digital sign; The information system is important to orientation in the underground. 
-- **Lights**
-  - Stained glass, chandeliers, ; aim for a single-sentence in 120 characters or less.
+- **Visual element**
+  - Stained glass, chandeliers; Chandeliers in the subway in Dubai is one of the most breathtaking stations around the world. The lights are one of the most using elements that are used in other countries for decoratin in the subway as amazing visual effects. This visual effects can help to understand information system.
+- **Ing. Eugen Maletič**
+  - Specialist of lights; Interview with Mr. Maletič was very informative and interesting. Every information about lights are interesting also connected with metro. He said something about visual elements that i can use. I could to change a color of the light connected with information system that can help to understood what's going on.
  
  ### References
  
