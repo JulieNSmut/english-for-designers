@@ -11,13 +11,13 @@ The main idea of my thesis is How could work visual element connect with grafic 
 
 I created a visual design for station Depo Písnice. Inspired by Dubai, Paris, Munich and many other contries. I described informatin and navigation system in Prague metro and comment it. Like logo, typography, warning sign and so on. In fisrt design I used materials that is very easy for cleaning, using and instalation. In second design has easy design too. But needed more materials and more approvals like fire situations etc. However, I spoke with specialist and he said that wouldn't be problem.
 
-## keywords
+## Keywords
 
 Visual realization, metro D, Akad. arch. David Vávra, prof. doc. Mgr. akad. mal. Jiří Černický, information system, navigation system, Prague subway, typography, pictograms, Ing. arch. Adam Gebrian, foreign subway, visual element, Ing. Eugen Maletič
 
 ## Motivation/Problem and/or Opportunity
 
-
+I knew new information about Prague metro and about vizualization for new line D. One of the most interesting realization is created by Jiří Černický. And also many others artists. I inspired by the subways from Paris, Dubaj, etc. I met the specialist for lights because I needed a consultation of my own practice part of my thesis.
 
 ## Thesis
 
