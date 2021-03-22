@@ -17,11 +17,15 @@ Visual realization, metro D, Akad. arch. David Vávra, prof. doc. Mgr. akad. mal
 
 ## Motivation/Problem and/or Opportunity
 
-I knew new information about Prague metro and about vizualization for new line D. One of the most interesting realization is created by Jiří Černický. And also many others artists. I inspired by the subways from Paris, Dubaj, etc. I met the specialist for lights because I needed a consultation of my own practice part of my thesis.
+I knew new information about Prague metro and about vizualization for new line D. One of the most interesting realization is created by Jiří Černický. And also many others artists. I inspired by the subways from Paris, Dubaj, etc. I met the specialist for lights. I needed a consultation of my own practice part of thesis.
 
 ## Thesis
 
+The thesis is about art in the subway in Prague. The theoretical part is based on the design in the metro. The art design interior had just ten stations. Pankrác, Olbrachtova, Nádraží Krč, Nemocnice Krč and Nové Dvory. Other stations haven't art visualization. And also about logo and typography that are used. Inspiration from other countries. Like Paris, Stockholm, Dubai, etc. There is one part dedicated to Adam Gebrian TV series about architecture and Prague metro. The practice part of the thesis is about my opinion, inspiration, design interior, graphic design, and art in the station Depo Písnice. In my opinion, the metro in Prague needs a better information system that is connected with visuals aids.
+
 ## Approach/Methodology
+
+In theoretical part is about Prague metro, graphic design, architecture and art. In practical part is about my visual station connected with information system.
 
 ## Results/Outcomes/Analysis
 
