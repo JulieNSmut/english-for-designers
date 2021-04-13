@@ -3,7 +3,7 @@
 ![First design of my station for metro D.](./img/thesis-hero.png)
 ![Second design of my station for metro D.](./img/thesis-figure-1.png)
 
-# Grafic design and public space of the emerging metro D
+# Graphic design and public space of the emerging metro D
 
 Byline
 
