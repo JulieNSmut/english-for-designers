@@ -5,9 +5,7 @@
 
 # Graphic design and public space of the emerging metro D
 
-Byline
-
-16.4.2021
+25.4.2021
 
 <!-- Content goes here… -->
 
