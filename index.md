@@ -32,5 +32,5 @@
 
 [Thesis abstract draft](07-abstract-draft/thesis-abstract-draft.md)
 
-[Thesis summary details](08-summary-details/summary-details.md)
+[Thesis summary details](08-summary-details/thesis-summary-details.md)
 
