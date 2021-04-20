@@ -23,4 +23,13 @@ Visual realization, metro D, Akad. arch. David Vávra, prof. doc. Mgr. akad. mal
 
 ## Article
 
-<!-- Expanded article based on outline. -->
+### About my design of benches and waste bin
+
+It's began with skatches by benches and waste bin.
+
+![Sketches an the bench and bin.](./img/bench-sketch-01.jpg)
+
+![Sketches an the bench and bin.](./img/bench-sketch-02.jpg)
+
+![Sketches an the bench and bin.](./img/bench-sketch-03.jpg)
+
