@@ -1,8 +1,3 @@
-<!-- Add an *optional* hero image to provide visual context. -->
-
-![First design of my station for metro D.](./img/thesis-hero.png)
-![Second design of my station for metro D.](./img/thesis-figure-1.png)
-
 # Graphic design and public space of the emerging metro D
 
 25.4.2021
@@ -21,15 +16,40 @@ The bachelor thesis concerns the visual and graphic concept of the interior of a
 
 Visual realization, metro D, Akad. arch. David Vávra, prof. doc. Mgr. akad. mal. Jiří Černický, information system, navigation system, Prague subway, typography, pictograms, Ing. arch. Adam Gebrian, foreign subway, visual element, Ing. Eugen Maletič
 
+---
+
 ## Article
 
 ### About my design of benches and waste bin
 
 It's began with skatches by benches and waste bin.
 
-![Sketches an the bench and bin.](./img/bench-sketch-01.jpg)
+![Sketches the bench and bin.](./img/bench-sketch-01.jpg)
 
-![Sketches an the bench and bin.](./img/bench-sketch-02.jpg)
+![Sketches the bench and bin.](./img/bench-sketch-02.jpg)
 
-![Sketches an the bench and bin.](./img/bench-sketch-03.jpg)
+![Sketches the bench and bin.](./img/bench-sketch-03.jpg)
 
+#### The 3D models
+
+At first, I began with drew the bin and bench. And then, In the graphic program for 3D models, I started to make. I did four type of the 3D models.
+
+
+![3D models the bench and bin.](./img/bench01.jpg)
+
+![3D models the bench and bin.](./img/bench02.jpg)
+
+![3D models the bench and bin.](./img/bench03.jpg)
+
+![3D models the bench and bin.](./img/bench04.jpg)
+
+![3D models the bench and bin.](./img/bench05.png)
+
+![Station with the bench and bin.](./img/bench-and-bin-in-station.jpg)
+
+
+### Final design of the station Depo Písnice
+<!-- Add an *optional* hero image to provide visual context. -->
+
+![First design of my station for metro D.](./img/thesis-hero.png)
+![Second design of my station for metro D.](./img/thesis-figure-1.png)
