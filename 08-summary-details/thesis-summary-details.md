@@ -53,3 +53,11 @@ At first, I began with drew the bin and bench. And then, In the graphic program 
 
 ![First design of my station for metro D.](./img/thesis-hero.png)
 ![Second design of my station for metro D.](./img/thesis-figure-1.png)
+
+#### How the color work
+
+The first picture is a design based on the story about Vietnam's Lantern Festival. The Lantern Festival is come from Hoi An harbour. It is a monthly celebration falling on the 14th day of the lunar calendar. But this Festival come from China originally. The Hoi An to take this tradition thanks to shopping ways from China.
+
+I create a design that is inspire by SAPA that is near the station. If you wanna see a Lantern Festival or just bubbles world. It's all up to you, What will you see. The colors in the picture are colourful. I wanna warn about arrival train to the station. This decision I had after the interview with Ing. Maletič. It was very interesting conversation about lignts and colors.
+
+The second design has a color that is inspired by a footpath sign. Typical for European touristic signs.
