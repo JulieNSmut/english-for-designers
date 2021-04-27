@@ -33,8 +33,12 @@
 
 [Thesis abstract draft](07-abstract-draft/thesis-abstract-draft.md)
 
+
 - Summary details
 
 [Thesis summary details](08-summary-details/thesis-summary-details.md)
 
+---
+
+[Home](https://github.com/JulieNSmut)
 
