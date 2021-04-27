@@ -42,3 +42,5 @@
 
 [Home](https://github.com/JulieNSmut)
 
+{{ "/assets/style.css" | relative_url }}
+
