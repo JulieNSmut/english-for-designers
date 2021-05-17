@@ -18,9 +18,7 @@
 
 - [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 
-- Presentation storytelling
-
-[PDF presentation](presentation-storytelling.md)
+- [Presentation storytelling](presentation-storytelling.md)
 
 ---
 ## Thesis
@@ -30,7 +28,6 @@
 
 
 [Thesis abstract draft](07-abstract-draft/thesis-abstract-draft.md)
-
 
 
 [Thesis summary details](08-summary-details/thesis-summary-details.md)
