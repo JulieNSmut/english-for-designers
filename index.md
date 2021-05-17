@@ -25,20 +25,16 @@
 ---
 ## Thesis
 
-- Clarity first
 
 [About my thesis](06-clarity-first/thesis-outline.md)
 
-- Abstract
 
 [Thesis abstract draft](07-abstract-draft/thesis-abstract-draft.md)
 
 
-- Summary details
 
 [Thesis summary details](08-summary-details/thesis-summary-details.md)
 
-- Final presentation
 
 [Thesis final presentation](09-final-presentation/final-presentation.md)
 
