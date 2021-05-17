@@ -28,13 +28,13 @@
 [About my thesis](06-clarity-first/thesis-outline.md)
 
 
-[Thesis abstract draft](07-abstract-draft/thesis-abstract-draft.md)
+[Abstract draft](07-abstract-draft/thesis-abstract-draft.md)
 
 
-[Thesis summary details](08-summary-details/thesis-summary-details.md)
+[Summary details](08-summary-details/thesis-summary-details.md)
 
 
-[Thesis final presentation](09-final-presentation/final-presentation.md)
+[Final presentation](09-final-presentation/final-presentation.md)
 
 ---
 
