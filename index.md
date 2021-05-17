@@ -38,6 +38,10 @@
 
 [Thesis summary details](08-summary-details/thesis-summary-details.md)
 
+- Final presentation
+
+[Thesis final presentation](09-final-presentation/final-presentation.md)
+
 ---
 
 [Home](https://github.com/JulieNSmut)
