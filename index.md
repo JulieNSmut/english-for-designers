@@ -18,7 +18,8 @@
 
 - [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 
-- [Presentation storytelling](presentation-storytelling.md)
+
+[Presentation storytelling](presentation-storytelling.md)
 
 ---
 ## Thesis
