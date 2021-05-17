@@ -20,7 +20,7 @@
 
 - Presentation storytelling
 
-[PDF presentation](presentation.pdf)
+[PDF presentation](presentation-storytelling.md)
 
 ---
 ## Thesis
