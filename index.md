@@ -15,10 +15,10 @@
 
 ## Thesis
 
-[About my thesis](06-clarity-first/thesis-outline.md)
-[Abstract draft](07-abstract-draft/thesis-abstract-draft.md)
-[Summary details](08-summary-details/thesis-summary-details.md)
-[Final presentation](09-final-presentation/final-presentation.md)
+- [About my thesis](06-clarity-first/thesis-outline.md)
+- [Abstract draft](07-abstract-draft/thesis-abstract-draft.md)
+- [Summary details](08-summary-details/thesis-summary-details.md)
+- [Final presentation](09-final-presentation/final-presentation.md)
 
 ---
 
